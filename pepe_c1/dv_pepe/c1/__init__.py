@@ -1,1 +1,1 @@
-from .component import Factory
+from .component import Factory, C1Settings
